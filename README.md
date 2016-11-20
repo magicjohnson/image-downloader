@@ -10,13 +10,13 @@ $ . ./venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
-Usage: 
+## Usage: 
 
 ```
 $ python image_downloader.py urls_example.txt
 ```
 
-Run tests:
+## Run tests:
 
 ```
 $ pytest tests.py
